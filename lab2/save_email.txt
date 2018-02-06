@@ -1,0 +1,4 @@
+subject is Zainab
+ sender is zoz@email.com
+ reciever is zizi@mail.com
+zoka

@@ -1,0 +1,11 @@
+There is no "Overloading" in Python as :
+
+Python doesn’t declare types in method declarations,in Python, you’d have:
+
+    def getUser(user):
+    	pass
+
+So you if you made one method to take a string,
+and one method to take an int,
+ you’d have the same method declaration,
+ and Python wouldn’t be able to tell them apart.
